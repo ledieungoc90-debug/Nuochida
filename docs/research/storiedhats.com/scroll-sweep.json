@@ -1,0 +1,579 @@
+[
+  {
+    "header": {
+      "background": "rgba(0, 0, 0, 0)",
+      "boxShadow": "none",
+      "position": "sticky",
+      "top": "0px",
+      "transform": "none"
+    },
+    "headerClass": "shopify-section shopify-section-group-header-group section-header shopify-section-header-sticky",
+    "scrollY": 0,
+    "visibleHeadings": [
+      {
+        "opacity": "1",
+        "tag": "H1",
+        "text": "",
+        "top": 53,
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "tag": "H1",
+        "text": "Lightweight. Breatahable. Washable.",
+        "top": 339,
+        "transform": "none"
+      }
+    ],
+    "visibleImgs": [
+      {
+        "alt": "storied hats",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+        "top": 60,
+        "transform": "none"
+      }
+    ]
+  },
+  {
+    "header": {
+      "background": "rgba(0, 0, 0, 0)",
+      "boxShadow": "none",
+      "position": "sticky",
+      "top": "0px",
+      "transform": "none"
+    },
+    "headerClass": "shopify-section shopify-section-group-header-group section-header shopify-section-header-sticky scrolled-past-header",
+    "scrollY": 120,
+    "visibleHeadings": [
+      {
+        "opacity": "1",
+        "tag": "H1",
+        "text": "",
+        "top": 15,
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "tag": "H1",
+        "text": "Lightweight. Breatahable. Washable.",
+        "top": 219,
+        "transform": "none"
+      }
+    ],
+    "visibleImgs": [
+      {
+        "alt": "storied hats",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+        "top": 22,
+        "transform": "none"
+      }
+    ]
+  },
+  {
+    "header": {
+      "background": "rgba(0, 0, 0, 0)",
+      "boxShadow": "none",
+      "position": "sticky",
+      "top": "0px",
+      "transform": "none"
+    },
+    "headerClass": "shopify-section shopify-section-group-header-group section-header shopify-section-header-sticky scrolled-past-header",
+    "scrollY": 500,
+    "visibleHeadings": [
+      {
+        "opacity": "1",
+        "tag": "H1",
+        "text": "",
+        "top": 15,
+        "transform": "none"
+      },
+      {
+        "opacity": "0.502849",
+        "tag": "H2",
+        "text": "Your Forehead is About to Look Awesome",
+        "top": 552,
+        "transform": "matrix(1, 0, 0, 1, 0, 10.0435)"
+      },
+      {
+        "opacity": "0.01",
+        "tag": "H2",
+        "text": "Our Most Popular",
+        "top": 707,
+        "transform": "matrix(1, 0, 0, 1, 0, 20)"
+      }
+    ],
+    "visibleImgs": [
+      {
+        "alt": "storied hats",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+        "top": 22,
+        "transform": "none"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/stars.png?v=1699428676&width=300",
+        "top": 375,
+        "transform": "matrix(1, 0, 0, 1, -65.7422, 0)"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/quality.png?v=1699428654&width=300",
+        "top": 376,
+        "transform": "matrix(1, 0, 0, 1, -65.7422, 0)"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/sustainability_3f809c4d-e23f-4221-93e0-82f36f2f1d1f.png?v=1699428695&width=300",
+        "top": 378,
+        "transform": "matrix(1, 0, 0, 1, -65.7422, 0)"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/clapping-nologos.png?v=1699482811&width=300",
+        "top": 380,
+        "transform": "matrix(1, 0, 0, 1, -65.7422, 0)"
+      }
+    ]
+  },
+  {
+    "header": {
+      "background": "rgba(0, 0, 0, 0)",
+      "boxShadow": "none",
+      "position": "sticky",
+      "top": "0px",
+      "transform": "none"
+    },
+    "headerClass": "shopify-section shopify-section-group-header-group section-header shopify-section-header-sticky scrolled-past-header",
+    "scrollY": 900,
+    "visibleHeadings": [
+      {
+        "opacity": "1",
+        "tag": "H1",
+        "text": "",
+        "top": 15,
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "tag": "H2",
+        "text": "Your Forehead is About to Look Awesome",
+        "top": 142,
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      {
+        "opacity": "0.986571",
+        "tag": "H2",
+        "text": "Our Most Popular",
+        "top": 288,
+        "transform": "matrix(1, 0, 0, 1, 0, 0.271301)"
+      }
+    ],
+    "visibleImgs": [
+      {
+        "alt": "storied hats",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+        "top": 22,
+        "transform": "none"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/stars.png?v=1699428676&width=300",
+        "top": -26,
+        "transform": "matrix(1, 0, 0, 1, -65.7422, 0)"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/quality.png?v=1699428654&width=300",
+        "top": -26,
+        "transform": "matrix(1, 0, 0, 1, -65.7422, 0)"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/sustainability_3f809c4d-e23f-4221-93e0-82f36f2f1d1f.png?v=1699428695&width=300",
+        "top": -26,
+        "transform": "matrix(1, 0, 0, 1, -65.7422, 0)"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/clapping-nologos.png?v=1699482811&width=300",
+        "top": -26,
+        "transform": "matrix(1, 0, 0, 1, -65.7422, 0)"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/6p-brushedcoffee-feature_4da78ad4-b808-46eb-b33b-b9235078adb6.jpg?v=1764729703&width=1500",
+        "top": 378,
+        "transform": "none"
+      },
+      {
+        "alt": "Activewear",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/collections/naturecollection-log_4a30678b-8a0c-4460-9785-ffec9f4644bd.jpg?v=1774804751",
+        "top": 380,
+        "transform": "none"
+      }
+    ]
+  },
+  {
+    "header": {
+      "background": "rgba(0, 0, 0, 0)",
+      "boxShadow": "none",
+      "position": "sticky",
+      "top": "0px",
+      "transform": "none"
+    },
+    "headerClass": "shopify-section shopify-section-group-header-group section-header shopify-section-header-sticky scrolled-past-header",
+    "scrollY": 1300,
+    "visibleHeadings": [
+      {
+        "opacity": "1",
+        "tag": "H1",
+        "text": "",
+        "top": 15,
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "tag": "H3",
+        "text": "Activewear",
+        "top": 360,
+        "transform": "none"
+      }
+    ],
+    "visibleImgs": [
+      {
+        "alt": "storied hats",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+        "top": 22,
+        "transform": "none"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/6p-brushedcoffee-feature_4da78ad4-b808-46eb-b33b-b9235078adb6.jpg?v=1764729703&width=1500",
+        "top": -23,
+        "transform": "none"
+      },
+      {
+        "alt": "Activewear",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/collections/naturecollection-log_4a30678b-8a0c-4460-9785-ffec9f4644bd.jpg?v=1774804751",
+        "top": -23,
+        "transform": "none"
+      },
+      {
+        "alt": "Simple",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/collections/Artboard_1_copy.png?v=1741062905",
+        "top": 454,
+        "transform": "none"
+      }
+    ]
+  },
+  {
+    "header": {
+      "background": "rgba(0, 0, 0, 0)",
+      "boxShadow": "none",
+      "position": "sticky",
+      "top": "0px",
+      "transform": "none"
+    },
+    "headerClass": "shopify-section shopify-section-group-header-group section-header shopify-section-header-sticky scrolled-past-header",
+    "scrollY": 1800,
+    "visibleHeadings": [
+      {
+        "opacity": "1",
+        "tag": "H1",
+        "text": "",
+        "top": 15,
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "tag": "H3",
+        "text": "Wool Hats",
+        "top": 337,
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "tag": "H3",
+        "text": "Simple",
+        "top": 337,
+        "transform": "none"
+      },
+      {
+        "opacity": "0.991472",
+        "tag": "H2",
+        "text": "Why Storied Hats",
+        "top": 411,
+        "transform": "matrix(1, 0, 0, 1, 0, 0.172278)"
+      },
+      {
+        "opacity": "1",
+        "tag": "H2",
+        "text": "Exceptional Quality",
+        "top": 658,
+        "transform": "none"
+      }
+    ],
+    "visibleImgs": [
+      {
+        "alt": "storied hats",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+        "top": 22,
+        "transform": "none"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/6p-brushedcoffee-feature_4da78ad4-b808-46eb-b33b-b9235078adb6.jpg?v=1764729703&width=1500",
+        "top": -523,
+        "transform": "none"
+      },
+      {
+        "alt": "Simple",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/collections/Artboard_1_copy.png?v=1741062905",
+        "top": -46,
+        "transform": "none"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/products/explorer-andrew-small.jpg?v=1726083301&width=1500",
+        "top": 531,
+        "transform": "none"
+      }
+    ]
+  },
+  {
+    "header": {
+      "background": "rgba(0, 0, 0, 0)",
+      "boxShadow": "none",
+      "position": "sticky",
+      "top": "0px",
+      "transform": "none"
+    },
+    "headerClass": "shopify-section shopify-section-group-header-group section-header shopify-section-header-sticky scrolled-past-header",
+    "scrollY": 2400,
+    "visibleHeadings": [
+      {
+        "opacity": "1",
+        "tag": "H1",
+        "text": "",
+        "top": 15,
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "tag": "H2",
+        "text": "Exceptional Quality",
+        "top": 58,
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "tag": "H2",
+        "text": "Variety",
+        "top": 588,
+        "transform": "none"
+      }
+    ],
+    "visibleImgs": [
+      {
+        "alt": "storied hats",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+        "top": 22,
+        "transform": "none"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/products/explorer-andrew-small.jpg?v=1726083301&width=1500",
+        "top": -69,
+        "transform": "none"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/desktop-catalog-grid3.png?v=1699423640&width=1500",
+        "top": 431,
+        "transform": "none"
+      }
+    ]
+  },
+  {
+    "header": {
+      "background": "rgba(0, 0, 0, 0)",
+      "boxShadow": "none",
+      "position": "sticky",
+      "top": "0px",
+      "transform": "none"
+    },
+    "headerClass": "shopify-section shopify-section-group-header-group section-header shopify-section-header-sticky scrolled-past-header",
+    "scrollY": 3100,
+    "visibleHeadings": [
+      {
+        "opacity": "1",
+        "tag": "H1",
+        "text": "",
+        "top": 15,
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "tag": "H2",
+        "text": "Values",
+        "top": 334,
+        "transform": "none"
+      }
+    ],
+    "visibleImgs": [
+      {
+        "alt": "storied hats",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+        "top": 22,
+        "transform": "none"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/desktop-catalog-grid3.png?v=1699423640&width=1500",
+        "top": -269,
+        "transform": "none"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/ezgif.com-gif-maker_10.gif?v=1699423592&width=1500",
+        "top": 231,
+        "transform": "none"
+      }
+    ]
+  },
+  {
+    "header": {
+      "background": "rgba(0, 0, 0, 0)",
+      "boxShadow": "none",
+      "position": "sticky",
+      "top": "0px",
+      "transform": "none"
+    },
+    "headerClass": "shopify-section shopify-section-group-header-group section-header shopify-section-header-sticky scrolled-past-header",
+    "scrollY": 3900,
+    "visibleHeadings": [
+      {
+        "opacity": "1",
+        "tag": "H1",
+        "text": "",
+        "top": 15,
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "tag": "H2",
+        "text": "Customize Sustainable Hats for Your Brand",
+        "top": 16,
+        "transform": "none"
+      },
+      {
+        "opacity": "0.949975",
+        "tag": "H2",
+        "text": "Get Notified of New Releases",
+        "top": 544,
+        "transform": "matrix(1, 0, 0, 1, 0, 1.01061)"
+      }
+    ],
+    "visibleImgs": [
+      {
+        "alt": "storied hats",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+        "top": 22,
+        "transform": "none"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/custom-stack-2023-teal-mobile.png?v=1699292271&width=1500",
+        "top": -44,
+        "transform": "none"
+      }
+    ]
+  },
+  {
+    "header": {
+      "background": "rgba(0, 0, 0, 0)",
+      "boxShadow": "none",
+      "position": "sticky",
+      "top": "0px",
+      "transform": "none"
+    },
+    "headerClass": "shopify-section shopify-section-group-header-group section-header shopify-section-header-sticky scrolled-past-header",
+    "scrollY": 4245,
+    "visibleHeadings": [
+      {
+        "opacity": "1",
+        "tag": "H1",
+        "text": "",
+        "top": 15,
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "tag": "H2",
+        "text": "Get Notified of New Releases",
+        "top": 198,
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      {
+        "opacity": "1",
+        "tag": "H2",
+        "text": "Quick links",
+        "top": 441,
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "tag": "H2",
+        "text": "Storied Hats",
+        "top": 443,
+        "transform": "none"
+      }
+    ],
+    "visibleImgs": [
+      {
+        "alt": "storied hats",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+        "top": 22,
+        "transform": "none"
+      },
+      {
+        "alt": "",
+        "opacity": "1",
+        "src": "https://www.storiedhats.com/cdn/shop/files/custom-stack-2023-teal-mobile.png?v=1699292271&width=1500",
+        "top": -390,
+        "transform": "none"
+      }
+    ]
+  }
+]

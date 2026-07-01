@@ -1,0 +1,130 @@
+[
+  {
+    "kind": "image",
+    "source": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+    "alt": "storied hats",
+    "width": 130,
+    "height": 20,
+    "ok": true,
+    "bytes": 5593,
+    "localPath": "/storiedhats/01-image-sh-logo-new-13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png"
+  },
+  {
+    "kind": "image",
+    "source": "https://www.storiedhats.com/cdn/shop/files/stars.png?v=1699428676&width=300",
+    "alt": "",
+    "width": 131,
+    "height": 43,
+    "ok": true,
+    "bytes": 4981,
+    "localPath": "/storiedhats/02-image-stars.png"
+  },
+  {
+    "kind": "image",
+    "source": "https://www.storiedhats.com/cdn/shop/files/quality.png?v=1699428654&width=300",
+    "alt": "",
+    "width": 131,
+    "height": 43,
+    "ok": true,
+    "bytes": 16972,
+    "localPath": "/storiedhats/03-image-quality.png"
+  },
+  {
+    "kind": "image",
+    "source": "https://www.storiedhats.com/cdn/shop/files/sustainability_3f809c4d-e23f-4221-93e0-82f36f2f1d1f.png?v=1699428695&width=300",
+    "alt": "",
+    "width": 131,
+    "height": 43,
+    "ok": true,
+    "bytes": 14512,
+    "localPath": "/storiedhats/04-image-sustainability-3f809c4d-e23f-4221-93e0-82f36f2f1d1f.png"
+  },
+  {
+    "kind": "image",
+    "source": "https://www.storiedhats.com/cdn/shop/files/clapping-nologos.png?v=1699482811&width=300",
+    "alt": "",
+    "width": 131,
+    "height": 43,
+    "ok": true,
+    "bytes": 12866,
+    "localPath": "/storiedhats/05-image-clapping-nologos.png"
+  },
+  {
+    "kind": "image",
+    "source": "https://www.storiedhats.com/cdn/shop/files/6p-brushedcoffee-feature_4da78ad4-b808-46eb-b33b-b9235078adb6.jpg?v=1764729703&width=1500",
+    "alt": "",
+    "width": 550,
+    "height": 550,
+    "ok": true,
+    "bytes": 108435,
+    "localPath": "/storiedhats/06-image-6p-brushedcoffee-feature-4da78ad4-b808-46eb-b33b-b9235078adb6.jpg"
+  },
+  {
+    "kind": "image",
+    "source": "https://www.storiedhats.com/cdn/shop/collections/naturecollection-log_4a30678b-8a0c-4460-9785-ffec9f4644bd.jpg?v=1774804751",
+    "alt": "Activewear",
+    "width": 550,
+    "height": 550,
+    "ok": true,
+    "bytes": 295414,
+    "localPath": "/storiedhats/07-image-naturecollection-log-4a30678b-8a0c-4460-9785-ffec9f4644bd.jpg"
+  },
+  {
+    "kind": "image",
+    "source": "https://www.storiedhats.com/cdn/shop/collections/Artboard_1_copy.png?v=1741062905",
+    "alt": "Simple",
+    "width": 550,
+    "height": 550,
+    "ok": true,
+    "bytes": 1887067,
+    "localPath": "/storiedhats/08-image-artboard-1-copy.png"
+  },
+  {
+    "kind": "image",
+    "source": "https://www.storiedhats.com/cdn/shop/products/explorer-andrew-small.jpg?v=1726083301&width=1500",
+    "alt": "",
+    "width": 550,
+    "height": 550,
+    "ok": true,
+    "bytes": 175897,
+    "localPath": "/storiedhats/09-image-explorer-andrew-small.jpg"
+  },
+  {
+    "kind": "image",
+    "source": "https://www.storiedhats.com/cdn/shop/files/desktop-catalog-grid3.png?v=1699423640&width=1500",
+    "alt": "",
+    "width": 550,
+    "height": 273,
+    "ok": true,
+    "bytes": 945047,
+    "localPath": "/storiedhats/10-image-desktop-catalog-grid3.png"
+  },
+  {
+    "kind": "image",
+    "source": "https://www.storiedhats.com/cdn/shop/files/ezgif.com-gif-maker_10.gif?v=1699423592&width=1500",
+    "alt": "",
+    "width": 0,
+    "height": 0,
+    "ok": true,
+    "bytes": 9999361,
+    "localPath": "/storiedhats/11-image-ezgif-com-gif-maker-10.gif"
+  },
+  {
+    "kind": "image",
+    "source": "https://www.storiedhats.com/cdn/shop/files/custom-stack-2023-teal-mobile.png?v=1699292271&width=1500",
+    "alt": "",
+    "width": 0,
+    "height": 0,
+    "ok": true,
+    "bytes": 816931,
+    "localPath": "/storiedhats/12-image-custom-stack-2023-teal-mobile.png"
+  },
+  {
+    "kind": "background",
+    "source": "https://www.storiedhats.com/cdn/shop/files/naturecollection-log_a8f5e341-7f82-4416-b341-2a884231554f.jpg?v=1762287026&width=1920",
+    "element": "go-adventure-hero",
+    "ok": true,
+    "bytes": 325083,
+    "localPath": "/storiedhats/13-background-naturecollection-log-a8f5e341-7f82-4416-b341-2a884231554f.jpg"
+  }
+]

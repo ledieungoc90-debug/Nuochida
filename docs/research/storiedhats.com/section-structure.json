@@ -1,0 +1,677 @@
+[
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "className": "shopify-section shopify-section-group-header-group announcement-bar-section",
+    "headings": [],
+    "height": 41,
+    "i": 0,
+    "id": "shopify-section-sections--19217548181760__announcement_bar_i9tCRX",
+    "imgs": [],
+    "links": [
+      {
+        "href": "https://www.storiedhats.com/collections/all-storied-hats",
+        "text": "PRE-SUMMER SALE! Buy One, Get One 50% OFF!"
+      }
+    ],
+    "tag": "DIV",
+    "text": "PRE-SUMMER SALE! Buy One, Get One 50% OFF!",
+    "top": 0
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "className": "shopify-section shopify-section-group-header-group section-header shopify-section-header-sticky",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Country/region"
+      },
+      {
+        "tag": "H1",
+        "text": ""
+      },
+      {
+        "tag": "H2",
+        "text": "Item added to your cart"
+      }
+    ],
+    "height": 60,
+    "i": 1,
+    "id": "shopify-section-sections--19217548181760__header",
+    "imgs": [
+      {
+        "alt": "storied hats",
+        "height": 20,
+        "src": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+        "width": 130
+      }
+    ],
+    "links": [
+      {
+        "href": "https://www.storiedhats.com/collections/all-storied-hats",
+        "text": "Shop All"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/activewear",
+        "text": "Activewear"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/simple",
+        "text": "Simple"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/patterns",
+        "text": "Patterns"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/5-panel",
+        "text": "5 Panel"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/6-panel",
+        "text": "6 Panel"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/classics",
+        "text": "Classics"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/recycled-wool",
+        "text": "Wool Hats"
+      },
+      {
+        "href": "https://www.storiedhats.com/products/gift-card",
+        "text": "Gift Cards"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/activewear",
+        "text": "Activewear"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/patterns",
+        "text": "Patterns"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/sale",
+        "text": "On Sale"
+      },
+      {
+        "href": "https://www.storiedhats.com/pages/custom-wholesale-hats",
+        "text": "Custom"
+      },
+      {
+        "href": "https://www.storiedhats.com/customer_authentication/redirect?locale=en&region_country=US",
+        "text": "Log in"
+      },
+      {
+        "href": "https://www.storiedhats.com/#",
+        "text": "Canada CAD $"
+      },
+      {
+        "href": "https://www.storiedhats.com/#",
+        "text": "United States USD $"
+      },
+      {
+        "href": "https://www.storiedhats.com/#",
+        "text": "Albania ALL L"
+      },
+      {
+        "href": "https://www.storiedhats.com/#",
+        "text": "Algeria DZD د.ج"
+      },
+      {
+        "href": "https://www.storiedhats.com/#",
+        "text": "Andorra EUR €"
+      },
+      {
+        "href": "https://www.storiedhats.com/#",
+        "text": "Angola USD $"
+      }
+    ],
+    "tag": "DIV",
+    "text": "header-drawer { justify-self: start; margin-left: -1.2rem; }.scrolled-past-header .header__heading-logo-wrapper { width: 75%; }@media screen and (min-width: 990px) { header-drawer { display: none; } }.menu-drawer-container { display: flex; } .list-menu { list-style: none; padding: 0; margin: 0; } .list-menu--inline { display: inline-flex; flex-wrap: wrap; } summary.list-menu__item { padding-right: 2.7rem; } .list-menu__item { display: flex; align-items: center; line-height: calc(1 + 0.3 / var(--font-body-scale)); } .list-menu__item--link { text-decoration: none; padding-bottom: 1rem; padding-top: 1rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); } @media screen and (min-width: 750px) { .list-menu__item--link { padding-bottom: 0.5rem; padding-top: 0.5rem; } } .header { padding: 4px 3rem 4px 3rem; } .section-header { position: sticky; /* This is for fixing a Safari z-index issue. PR #2147 */ margin-bottom: 0px; } @media screen and (min-width: 750px) { .section-header { margin-bo",
+    "top": 41
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "className": "header header--middle-left header--mobile-center page-width header--has-menu header--has-account",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Country/region"
+      },
+      {
+        "tag": "H1",
+        "text": ""
+      }
+    ],
+    "height": 60,
+    "i": 2,
+    "id": "",
+    "imgs": [
+      {
+        "alt": "storied hats",
+        "height": 20,
+        "src": "https://www.storiedhats.com/cdn/shop/files/sh-logo-new_13103d5d-76b9-4ae4-98dc-7f3f97da97fa.png?v=1613172163&width=260",
+        "width": 130
+      }
+    ],
+    "links": [
+      {
+        "href": "https://www.storiedhats.com/collections/all-storied-hats",
+        "text": "Shop All"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/activewear",
+        "text": "Activewear"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/simple",
+        "text": "Simple"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/patterns",
+        "text": "Patterns"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/5-panel",
+        "text": "5 Panel"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/6-panel",
+        "text": "6 Panel"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/classics",
+        "text": "Classics"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/recycled-wool",
+        "text": "Wool Hats"
+      },
+      {
+        "href": "https://www.storiedhats.com/products/gift-card",
+        "text": "Gift Cards"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/activewear",
+        "text": "Activewear"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/patterns",
+        "text": "Patterns"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/sale",
+        "text": "On Sale"
+      },
+      {
+        "href": "https://www.storiedhats.com/pages/custom-wholesale-hats",
+        "text": "Custom"
+      },
+      {
+        "href": "https://www.storiedhats.com/customer_authentication/redirect?locale=en&region_country=US",
+        "text": "Log in"
+      },
+      {
+        "href": "https://www.storiedhats.com/#",
+        "text": "Canada CAD $"
+      },
+      {
+        "href": "https://www.storiedhats.com/#",
+        "text": "United States USD $"
+      },
+      {
+        "href": "https://www.storiedhats.com/#",
+        "text": "Albania ALL L"
+      },
+      {
+        "href": "https://www.storiedhats.com/#",
+        "text": "Algeria DZD د.ج"
+      },
+      {
+        "href": "https://www.storiedhats.com/#",
+        "text": "Andorra EUR €"
+      },
+      {
+        "href": "https://www.storiedhats.com/#",
+        "text": "Angola USD $"
+      }
+    ],
+    "tag": "HEADER",
+    "text": "Shop All Shop All Shop All Activewear Simple Patterns 5 Panel 6 Panel Classics Wool Hats Gift Cards Activewear Patterns On Sale Custom Log in Country/region United States | USD $ Search Canada CAD $ United States USD $ Albania ALL L Algeria DZD د.ج Andorra EUR € Angola USD $ Anguilla XCD $ Antigua & Barbuda XCD $ Argentina USD $ Armenia AMD դր. Aruba AWG ƒ Australia AUD $ Austria EUR € Azerbaijan AZN ₼ Bahamas BSD $ Bahrain USD $ Bangladesh BDT ৳ Barbados BBD $ Belgium EUR € Belize BZD $ Benin XOF Fr Bermuda USD $ Bolivia BOB Bs. Bosnia & Herzegovina BAM КМ Botswana BWP P Brazil USD $ British Virgin Islands USD $ Brunei BND $ Bulgaria EUR € Burkina Faso XOF Fr Burundi BIF Fr Cambodia KHR ៛ Cameroon XAF CFA Canada CAD $ Cape Verde CVE $ Caribbean Netherlands USD $ Cayman Islands KYD $ Chad XAF CFA Chile USD $ China CNY ¥ Colombia USD $ Comoros KMF Fr Cook Islands NZD $ Costa Rica CRC ₡ Croatia EUR € Curaçao ANG ƒ Cyprus EUR € Czechia CZK Kč Denmark DKK kr. Djibouti DJF Fdj Dominica XCD ",
+    "top": 41
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "className": "shopify-section section-go-adventure-hero",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Lightweight. Breatahable. Washable."
+      }
+    ],
+    "height": 712,
+    "i": 3,
+    "id": "shopify-section-template--19217547690240__go_adventure_hero_cBRAnN",
+    "imgs": [],
+    "links": [
+      {
+        "href": "https://www.storiedhats.com/collections/activewear",
+        "text": "SHOP ACTIVEWEAR"
+      }
+    ],
+    "tag": "DIV",
+    "text": "Lightweight. Breatahable. Washable. Nature-inspired activewear hats made for your next adventure. SHOP ACTIVEWEAR",
+    "top": 101
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "className": "shopify-section section",
+    "headings": [],
+    "height": 222,
+    "i": 4,
+    "id": "shopify-section-template--19217547690240__6021fb6b-d550-4a2a-80c5-b793a82df95a",
+    "imgs": [
+      {
+        "alt": "",
+        "height": 43,
+        "src": "https://www.storiedhats.com/cdn/shop/files/stars.png?v=1699428676&width=300",
+        "width": 131
+      },
+      {
+        "alt": "",
+        "height": 43,
+        "src": "https://www.storiedhats.com/cdn/shop/files/quality.png?v=1699428654&width=300",
+        "width": 131
+      },
+      {
+        "alt": "",
+        "height": 43,
+        "src": "https://www.storiedhats.com/cdn/shop/files/sustainability_3f809c4d-e23f-4221-93e0-82f36f2f1d1f.png?v=1699428695&width=300",
+        "width": 131
+      },
+      {
+        "alt": "",
+        "height": 43,
+        "src": "https://www.storiedhats.com/cdn/shop/files/clapping-nologos.png?v=1699482811&width=300",
+        "width": 131
+      }
+    ],
+    "links": [],
+    "tag": "SECTION",
+    "text": ".section-template--19217547690240__6021fb6b-d550-4a2a-80c5-b793a82df95a-padding { padding-top: 27px; padding-bottom: 21px; } @media screen and (min-width: 750px) { .section-template--19217547690240__6021fb6b-d550-4a2a-80c5-b793a82df95a-padding { padding-top: 36px; padding-bottom: 28px; } } 35,000+ Happy Foreheads. Average of 4.74 Stars. Exceptional Quality Sustainable Materials & Ethical Production No Logos, Just Great Designs",
+    "top": 813
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "className": "shopify-section section",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Your Forehead is About to Look Awesome"
+      }
+    ],
+    "height": 153,
+    "i": 5,
+    "id": "shopify-section-template--19217547690240__82c2cea9-1ac9-49a1-836b-a8851148c428",
+    "imgs": [],
+    "links": [
+      {
+        "href": "https://www.storiedhats.com/collections/all-storied-hats",
+        "text": "Shop All Hats"
+      }
+    ],
+    "tag": "SECTION",
+    "text": ".section-template--19217547690240__82c2cea9-1ac9-49a1-836b-a8851148c428-padding { padding-top: 6px; padding-bottom: 15px; } @media screen and (min-width: 750px) { .section-template--19217547690240__82c2cea9-1ac9-49a1-836b-a8851148c428-padding { padding-top: 8px; padding-bottom: 20px; } } Your Forehead is About to Look Awesome Shop All Hats",
+    "top": 1034
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "className": "shopify-section section",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Our Most Popular"
+      },
+      {
+        "tag": "H3",
+        "text": "Wool Hats"
+      },
+      {
+        "tag": "H3",
+        "text": "Wool Hats"
+      },
+      {
+        "tag": "H3",
+        "text": "Activewear"
+      },
+      {
+        "tag": "H3",
+        "text": "Activewear"
+      },
+      {
+        "tag": "H3",
+        "text": "Simple"
+      },
+      {
+        "tag": "H3",
+        "text": "Simple"
+      }
+    ],
+    "height": 1004,
+    "i": 6,
+    "id": "shopify-section-template--19217547690240__db77410d-468d-48c8-9270-306f859353f7",
+    "imgs": [
+      {
+        "alt": "",
+        "height": 550,
+        "src": "https://www.storiedhats.com/cdn/shop/files/6p-brushedcoffee-feature_4da78ad4-b808-46eb-b33b-b9235078adb6.jpg?v=1764729703&width=1500",
+        "width": 550
+      },
+      {
+        "alt": "Activewear",
+        "height": 550,
+        "src": "https://www.storiedhats.com/cdn/shop/collections/naturecollection-log_4a30678b-8a0c-4460-9785-ffec9f4644bd.jpg?v=1774804751",
+        "width": 550
+      },
+      {
+        "alt": "Simple",
+        "height": 550,
+        "src": "https://www.storiedhats.com/cdn/shop/collections/Artboard_1_copy.png?v=1741062905",
+        "width": 550
+      }
+    ],
+    "links": [
+      {
+        "href": "https://www.storiedhats.com/collections/fall",
+        "text": "Wool Hats"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/fall",
+        "text": "Wool Hats"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/activewear",
+        "text": "Activewear"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/activewear",
+        "text": "Activewear"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/simple",
+        "text": "Simple"
+      },
+      {
+        "href": "https://www.storiedhats.com/collections/simple",
+        "text": "Simple"
+      }
+    ],
+    "tag": "SECTION",
+    "text": ".section-template--19217547690240__db77410d-468d-48c8-9270-306f859353f7-padding { padding-top: 0px; padding-bottom: 0px; } @media screen and (min-width: 750px) { .section-template--19217547690240__db77410d-468d-48c8-9270-306f859353f7-padding { padding-top: 0px; padding-bottom: 0px; } } Our Most Popular Wool Hats Built for winter. Wool, flannel, and fleece. Warm, durable, soft liners, and... Wool Hats Activewear Built to last: versatile activewear hats made from sustainable materials. Soft, light,... Activewear Simple Solid colors, heathered and speckled fabrics, and color blocks – all in... Simple",
+    "top": 1187
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "className": "shopify-section section",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Why Storied Hats"
+      }
+    ],
+    "height": 104,
+    "i": 7,
+    "id": "shopify-section-template--19217547690240__f66cd568-0bb9-430d-936f-11b5be5642cf",
+    "imgs": [],
+    "links": [],
+    "tag": "SECTION",
+    "text": ".section-template--19217547690240__f66cd568-0bb9-430d-936f-11b5be5642cf-padding { padding-top: 15px; padding-bottom: 18px; } @media screen and (min-width: 750px) { .section-template--19217547690240__f66cd568-0bb9-430d-936f-11b5be5642cf-padding { padding-top: 20px; padding-bottom: 24px; } } Why Storied Hats",
+    "top": 2191
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "className": "shopify-section section",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Exceptional Quality"
+      },
+      {
+        "tag": "H2",
+        "text": "Variety"
+      },
+      {
+        "tag": "H2",
+        "text": "Values"
+      }
+    ],
+    "height": 1532,
+    "i": 8,
+    "id": "shopify-section-template--19217547690240__355f66ad-2117-43d2-847d-4c7dddd6f364",
+    "imgs": [
+      {
+        "alt": "",
+        "height": 550,
+        "src": "https://www.storiedhats.com/cdn/shop/products/explorer-andrew-small.jpg?v=1726083301&width=1500",
+        "width": 550
+      },
+      {
+        "alt": "",
+        "height": 273,
+        "src": "https://www.storiedhats.com/cdn/shop/files/desktop-catalog-grid3.png?v=1699423640&width=1500",
+        "width": 550
+      },
+      {
+        "alt": "",
+        "height": 123,
+        "src": "https://www.storiedhats.com/cdn/shop/files/ezgif.com-gif-maker_10.gif?v=1699423592&width=1500",
+        "width": 220
+      }
+    ],
+    "links": [
+      {
+        "href": "https://www.storiedhats.com/collections/all-storied-hats",
+        "text": "Explore All Hats"
+      }
+    ],
+    "tag": "DIV",
+    "text": ".section-template--19217547690240__355f66ad-2117-43d2-847d-4c7dddd6f364-padding { padding-top: 27px; padding-bottom: 27px; } @media screen and (min-width: 750px) { .section-template--19217547690240__355f66ad-2117-43d2-847d-4c7dddd6f364-padding { padding-top: 36px; padding-bottom: 36px; } } Exceptional Quality We believe in making things that feel great, look great, and built to last. Variety From simple and classic styles to unique patterns to a big range of materials. Values We search worldwide for the high-quality and most sustainable fabrics. All of our hats ethically made and Fair Trade Certified. Explore All Hats",
+    "top": 2295
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "className": "shopify-section section",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Customize Sustainable Hats for Your Brand"
+      }
+    ],
+    "height": 571,
+    "i": 9,
+    "id": "shopify-section-template--19217547690240__6779d9f5-3eeb-4f8c-b2de-4dba5522ff77",
+    "imgs": [
+      {
+        "alt": "",
+        "height": 372,
+        "src": "https://www.storiedhats.com/cdn/shop/files/custom-stack-2023-teal-mobile.png?v=1699292271&width=1500",
+        "width": 550
+      }
+    ],
+    "links": [
+      {
+        "href": "https://www.storiedhats.com/pages/custom-wholesale-hats",
+        "text": "Learn More"
+      }
+    ],
+    "tag": "DIV",
+    "text": ".section-template--19217547690240__6779d9f5-3eeb-4f8c-b2de-4dba5522ff77-padding { padding-top: 21px; padding-bottom: 21px; } @media screen and (min-width: 750px) { .section-template--19217547690240__6779d9f5-3eeb-4f8c-b2de-4dba5522ff77-padding { padding-top: 28px; padding-bottom: 28px; } } Customize Sustainable Hats for Your Brand Celebrity chefs, World Cup Winners, tech companies, breweries, bands, and more get their hats from us.Why?Because of our high-quality, sustainability, ethical production, and design capabilities. Learn More",
+    "top": 3827
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "className": "shopify-section shopify-section-group-footer-group section",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Get Notified of New Releases"
+      }
+    ],
+    "height": 256,
+    "i": 10,
+    "id": "shopify-section-sections--19217548148992__newsletter",
+    "imgs": [],
+    "links": [],
+    "tag": "SECTION",
+    "text": ".section-sections--19217548148992__newsletter-padding { padding-top: 33px; padding-bottom: 27px; } @media screen and (min-width: 750px) { .section-sections--19217548148992__newsletter-padding { padding-top: 44px; padding-bottom: 36px; } } Get Notified of New Releases We send emails about twice per month Email",
+    "top": 4399
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "className": "shopify-section shopify-section-group-footer-group",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Quick links"
+      },
+      {
+        "tag": "H2",
+        "text": "Storied Hats"
+      }
+    ],
+    "height": 302,
+    "i": 11,
+    "id": "shopify-section-sections--19217548148992__footer",
+    "imgs": [],
+    "links": [
+      {
+        "href": "https://www.storiedhats.com/pages/why-storied-hats-1",
+        "text": "About Us"
+      },
+      {
+        "href": "https://www.storiedhats.com/pages/contact-us",
+        "text": "Contact, Returns & Exchanges"
+      },
+      {
+        "href": "https://www.storiedhats.com/pages/faq",
+        "text": "FAQ"
+      },
+      {
+        "href": "https://www.storiedhats.com/",
+        "text": "storied hats"
+      },
+      {
+        "href": "https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore",
+        "text": "Powered by Shopify"
+      },
+      {
+        "href": "https://www.storiedhats.com/policies/refund-policy",
+        "text": "Refund policy"
+      },
+      {
+        "href": "https://www.storiedhats.com/policies/privacy-policy",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://www.storiedhats.com/policies/terms-of-service",
+        "text": "Terms of service"
+      },
+      {
+        "href": "https://www.storiedhats.com/policies/shipping-policy",
+        "text": "Shipping policy"
+      },
+      {
+        "href": "https://www.storiedhats.com/policies/contact-information",
+        "text": "Contact information"
+      },
+      {
+        "href": "https://www.storiedhats.com/policies/subscription-policy",
+        "text": "Cancellation policy"
+      }
+    ],
+    "tag": "DIV",
+    "text": ".footer { margin-top: 0px; } .section-sections--19217548148992__footer-padding { padding-top: 21px; padding-bottom: 6px; } @media screen and (min-width: 750px) { .footer { margin-top: 0px; } .section-sections--19217548148992__footer-padding { padding-top: 28px; padding-bottom: 8px; } }Quick links About Us Contact, Returns & Exchanges FAQ Storied HatsYour forehead is about to look awesome. © 2026, storied hats Powered by Shopify Refund policy Privacy policy Terms of service Shipping policy Contact information Cancellation policy",
+    "top": 4654
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "linear-gradient(0deg, rgb(255, 255, 255) 56%, rgb(255, 255, 255) 94%)",
+    "className": "footer color-background-2 gradient section-sections--19217548148992__footer-padding",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Quick links"
+      },
+      {
+        "tag": "H2",
+        "text": "Storied Hats"
+      }
+    ],
+    "height": 302,
+    "i": 12,
+    "id": "",
+    "imgs": [],
+    "links": [
+      {
+        "href": "https://www.storiedhats.com/pages/why-storied-hats-1",
+        "text": "About Us"
+      },
+      {
+        "href": "https://www.storiedhats.com/pages/contact-us",
+        "text": "Contact, Returns & Exchanges"
+      },
+      {
+        "href": "https://www.storiedhats.com/pages/faq",
+        "text": "FAQ"
+      },
+      {
+        "href": "https://www.storiedhats.com/",
+        "text": "storied hats"
+      },
+      {
+        "href": "https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore",
+        "text": "Powered by Shopify"
+      },
+      {
+        "href": "https://www.storiedhats.com/policies/refund-policy",
+        "text": "Refund policy"
+      },
+      {
+        "href": "https://www.storiedhats.com/policies/privacy-policy",
+        "text": "Privacy policy"
+      },
+      {
+        "href": "https://www.storiedhats.com/policies/terms-of-service",
+        "text": "Terms of service"
+      },
+      {
+        "href": "https://www.storiedhats.com/policies/shipping-policy",
+        "text": "Shipping policy"
+      },
+      {
+        "href": "https://www.storiedhats.com/policies/contact-information",
+        "text": "Contact information"
+      },
+      {
+        "href": "https://www.storiedhats.com/policies/subscription-policy",
+        "text": "Cancellation policy"
+      }
+    ],
+    "tag": "FOOTER",
+    "text": "Quick links About Us Contact, Returns & Exchanges FAQ Storied HatsYour forehead is about to look awesome. © 2026, storied hats Powered by Shopify Refund policy Privacy policy Terms of service Shipping policy Contact information Cancellation policy",
+    "top": 4654
+  }
+]
