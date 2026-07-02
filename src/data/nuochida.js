@@ -5,7 +5,7 @@ export const siteSettings = {
   whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "",
   announcement: "OEM/ODM Hat Manufacturer | Low MOQ | Fast Sampling | Global Delivery",
   navItems: [
-    { label: "Products", href: "#products" },
+    { label: "Products", href: "/products/baseball-caps" },
     { label: "OEM & ODM", href: "#oem" },
     { label: "Factory", href: "#factory" },
     { label: "About", href: "#about" },
