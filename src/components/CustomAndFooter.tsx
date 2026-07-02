@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ArrowRight, Database, Mail, MessageCircle } from "lucide-react";
 import { directusCollections, productCategories, siteSettings } from "@/data/nuochida";
 import { buildWhatsappUrl } from "@/lib/inquiry";
+import { InquiryForm } from "./InquiryForm";
 
 export function CustomAndFooter() {
   const whatsappHref = buildWhatsappUrl({
@@ -49,40 +50,7 @@ export function CustomAndFooter() {
             </div>
           </div>
 
-          <form className="inquiry-form">
-            <label>
-              Name
-              <input name="name" placeholder="Your name" />
-            </label>
-            <label>
-              Email
-              <input name="email" placeholder="you@company.com" type="email" />
-            </label>
-            <label>
-              Company
-              <input name="company" placeholder="Company / brand" />
-            </label>
-            <label>
-              Product Interest
-              <select name="product" defaultValue="custom-logo-hats">
-                {productCategories.map((category) => (
-                  <option key={category.slug} value={category.slug}>
-                    {category.title}
-                  </option>
-                ))}
-              </select>
-            </label>
-            <label className="wide">
-              Message
-              <textarea
-                name="message"
-                placeholder="Tell us quantity, logo method, material, delivery country, and sample needs."
-              />
-            </label>
-            <button className="storied-pill submit-button" type="button">
-              Submit Inquiry <ArrowRight size={16} />
-            </button>
-          </form>
+          <InquiryForm products={productCategories.map((category) => ({ title: category.title, slug: category.slug }))} />
         </div>
       </section>
 
@@ -110,7 +78,7 @@ export function CustomAndFooter() {
           <div>
             <h2>Products</h2>
             {productCategories.slice(0, 4).map((category) => (
-              <Link key={category.slug} href="#products">
+              <Link key={category.slug} href={`/products/${category.slug}`}>
                 {category.title}
               </Link>
             ))}
