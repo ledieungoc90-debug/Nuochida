@@ -37,14 +37,14 @@ export function TrustAndPopular() {
             <p className="section-kicker">Product Categories</p>
             <h2 className="section-title left">Custom Hats We Manufacture</h2>
           </div>
-          <Link className="text-link" href="#contact">
+          <Link className="text-link" href="/products/baseball-caps">
             Send product list <ArrowRight size={16} />
           </Link>
         </div>
 
         <div className="product-grid">
           {productCategories.map((card) => (
-            <Link className="product-card" href="#contact" key={card.slug}>
+            <Link className="product-card" href={`/products/${card.slug}`} key={card.slug}>
               <div className="product-visual" aria-hidden="true">
                 <span>{card.title.split(" ")[0]}</span>
               </div>
@@ -56,7 +56,9 @@ export function TrustAndPopular() {
                     <li key={spec}>{spec}</li>
                   ))}
                 </ul>
-                <strong>{card.inquiryLabel} →</strong>
+                <strong>
+                  {card.inquiryLabel} <ArrowRight size={15} />
+                </strong>
               </div>
             </Link>
           ))}
